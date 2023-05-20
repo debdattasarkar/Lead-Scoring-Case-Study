@@ -11,10 +11,6 @@
 <p align="center">
   <a href="https://www.upgrad.com/data-science-pgd-iiitb/" rel="noopener">
  <img src="https://raw.githubusercontent.com/debdattasarkar/Lead-Scoring-Case-Study/develop/images/pg-ds.jpeg" alt="Upgrad IITB PG Program"/></a>
-
- ![ScreenShot](/images/pg-ds.jpeg)
-
-  ![ScreenShot](https://raw.githubusercontent.com/debdattasarkar/Lead-Scoring-Case-Study/develop/images/pg-ds.jpeg)
 </p>
 
 ## 💡 Problem Statement <a name = "idea"></a>
