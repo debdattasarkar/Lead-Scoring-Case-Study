@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.upgrad.com/data-science-pgd-iiitb/" rel="noopener">
- <img src="https://github.com/debdattasarkar/Lead-Scoring-Case-Study/blob/master/images/pg-ds.jpeg" alt="Upgrad IITB PG Program"/></a>
+ <img src="https://raw.githubusercontent.com/debdattasarkar/Lead-Scoring-Case-Study/develop/images/pg-ds.jpeg" alt="Upgrad IITB PG Program"/></a>
 </p>
 
 ## 💡 Problem Statement <a name = "idea"></a>
@@ -18,7 +18,7 @@
 
 <div class="text_component ckOutput"><p>An education company named X Education sells online courses to industry professionals. On any given day, many professionals who are interested in the courses land on their website and browse for courses.&nbsp;</p><p>&nbsp;</p><p>The company markets its courses on several websites and search engines like Google. Once these people land on the website, they might browse the courses or fill up a form for the course or watch some videos. When these people fill up a form providing their email address or phone number, they are classified to be a lead. Moreover, the company also gets leads through past referrals. Once these leads are acquired, employees from the sales team start making calls, writing emails, etc. Through this process, some of the leads get converted while most do not. The typical lead conversion rate at X education is around 30%.&nbsp;</p><p>&nbsp;</p><p>Now, although X Education gets a lot of leads, its lead conversion rate is very poor. For example,&nbsp;if, say, they acquire 100 leads in a day, only about 30 of them are converted. To make this process more efficient, the company wishes to identify the most potential leads, also known as ‘Hot Leads’. If they successfully identify this set of leads, the lead conversion rate should go up as the sales team will now be focusing more on communicating with the potential leads rather than making calls to everyone. A typical lead conversion process can be represented using the following funnel:</p></div>
 
-<img src="https://github.com/debdattasarkar/Lead-Scoring-Case-Study/blob/master/images/XNote_201901081613670.jpg" alt=""/>
+<img src="https://raw.githubusercontent.com/debdattasarkar/Lead-Scoring-Case-Study/develop/images/XNote_201901081613670.jpg" alt=""/>
 <figcaption class="component_name">Lead Conversion Process - Demonstrated as a funnel</figcaption>
 
 <div class="text_component ckOutput">
