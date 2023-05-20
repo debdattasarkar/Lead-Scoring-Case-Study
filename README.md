@@ -8,10 +8,14 @@
 ![Pull Requests Badge](https://img.shields.io/github/issues-pr/debdattasarkar/Lead-Scoring-Case-Study?style=flat)
 [![Total Downloads](https://img.shields.io/github/downloads/debdattasarkar/Lead-Scoring-Case-Study/total.svg)](https://github.com/debdattasarkar/Lead-Scoring-Case-Study/releases/)
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.upgrad.com/data-science-pgd-iiitb/" rel="noopener">
- <img src="https://raw.githubusercontent.com/debdattasarkar/Lead-Scoring-Case-Study/develop/images/pg-ds.jpeg" alt="Upgrad IITB PG Program"/></a>
-</p>
+ <img src="https://raw.githubusercontent.com/debdattasarkar/Lead-Scoring-Case-Study/develop/images/pg-ds.jpeg" alt="Upgrad IITB PG Program"/>
+ </a>
+</p> -->
+
+## ✋  Stop Cheating or Plagiarism - ![Honor Code](https://img.shields.io/badge/IIITB-Your%20Text-<COLOR>.svg?logo=data:image/svg+xml;base64,<BASE64_ENCODED_LOGO>)</a>
+
 
 ## 💡 Problem Statement <a name = "idea"></a>
 
