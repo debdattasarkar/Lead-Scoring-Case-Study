@@ -14,7 +14,7 @@
  </a>
 </p> -->
 
-## ✋  Stop Cheating or Plagiarism - ![Honor Code](https://img.shields.io/badge/IIITB-Your%20Text-<COLOR>.svg?logo=data:image/svg+xml;base64,<BASE64_ENCODED_LOGO>)</a>
+## ✋  Stop Cheating or Plagiarism - ![Honor Code](https://img.shields.io/badge/IIITB-PG%20Executive%20Degree-<COLOR>.svg?logo=data:image/svg+xml;base64,<BASE64_ENCODED_LOGO>)</a>
 
 
 ## 💡 Problem Statement <a name = "idea"></a>
